@@ -7,14 +7,14 @@ Hi there👋, I’m Lucas
 - 🌱 I’m currently learning Python
 - 👨‍💻 All of my projects are available [@luccaslv](https://github.com/luccaslv)
 ----
-
+<!---
 ### Github stats:
 
 [![](https://github-readme-stats.vercel.app/api?username=luccaslv&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/luccaslv)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=luccaslv&theme=material-palenight)](https://github.com/luccaslv)
 
 ----
-
+--->
 <!---
 luccaslv/luccaslv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
