@@ -1,8 +1,7 @@
-<h1 align="center">Hi there<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Lucas</h1>
+<h1 align="center">Hey there<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Lucas</h1>
 <h3 font-size="20" align="center">Programming student, on a journey of exploring back-end development.</h3>
 <br>
 
-Hi there👋, I’m Lucas
 - Programming student
 - 🌱 I’m currently learning Python
 - 👨‍💻 All of my projects are available [@luccaslv](https://github.com/luccaslv)
