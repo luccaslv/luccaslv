@@ -1,28 +1,24 @@
-<h1 align="center">Hey there<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Lucas</h1>
-<h3 font-size="20" align="center">Programming student, on a journey of exploring back-end development.</h3>
-<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-- Programming student
-- 🌱 I’m currently learning Python
-- 👨‍💻 All of my projects are available [@luccaslv](https://github.com/luccaslv)
-----
-
-### Github stats:
-
-[![](https://github-readme-stats.vercel.app/api?username=luccaslv&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/luccaslv)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=luccaslv&theme=material-palenight)](https://github.com/luccaslv)
-
-----
-
-<h1>Contact</h1>
-<a href="https://www.linkedin.com/in/lucassllv/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucassilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/lucaaslv_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucaaslv-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<p align="left"> 
+  I'm Lucas, a <strong>Data Analyst</strong>.<br>
 </p>
-<!---
-luccaslv/luccaslv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="left">
+  Exploring Data Science, Machine Learning and Deep Learning to build smart solutions.
+</p>
+
+<p align="left">
+  🛠️ Working mainly with Python and its data ecosystem — including Pandas, NumPy, Scikit-Learn, TensorFlow, and PyTorch
+</p>
+
+<p align="left">
+  💌 Get in touch!! ⤵️
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lucasslv.dev@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/lucassllv/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
